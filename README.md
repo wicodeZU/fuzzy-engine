@@ -5,7 +5,7 @@ open your terminal or cmd
 
 clone the repo
 ```#!/bin/bash
-git clone 
+git clone https://github.com/wicodeZU/fuzzy-engine.git
 ```
 ## Node and package managers
 first if you dont have nodejs install it here
