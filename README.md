@@ -20,6 +20,10 @@ npm install --global yarn
 ```#!/bin/bash
 cd fuzzy-engine && cd api
 ```
+install deps
+```#!/bin/bash
+yarn
+```
 ### client
 after completting installing dependancies for the api
 <br />
@@ -36,7 +40,6 @@ now install your dependancies
 yarn 
 ```
 start the ui using
-now install your dependancies 
 ```#!/bin/bash
 yarn start
 ```
